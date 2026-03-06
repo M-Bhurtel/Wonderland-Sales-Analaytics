@@ -178,7 +178,7 @@ Bikes made up the bulk of total orders at 67.53%, with accessories at 17.89% and
 
 ### Customer Segmentation
 
-![Customer Segmentation](Customer.jpg)
+![Customer Segmentation](Customers.jpg)
 
 Average sales per customer came in at $1,437 with an average order value of $319. The 56-70 age group was the dominant segment at 45.63% of orders, followed by the 71+ group at 23.36%. By occupation, Professionals led at 29.89%, followed by Skilled Manual at 24.8%. The top customer, Jordan Turner, placed 20 orders totalling $15,570 with a profit contribution of $6,511.
 
